@@ -1,6 +1,6 @@
 package com.example;
 
-public interface MessageService {
-
+public interface MessageService
+{
     String getMessage();
 }
